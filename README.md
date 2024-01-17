@@ -4,6 +4,8 @@
 * The report of this project can be found in "report.pdf". 
 
 ## Build
+* Use Makefile to build the project.
+* The binary executables will be generated in "bin/".
 ```
 make
 ```
