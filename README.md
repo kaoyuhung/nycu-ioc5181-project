@@ -11,7 +11,8 @@ make
 ```
 
 ## Test 
-* The test result will be in the the folder "result/".
+* Run the python scripts to produce the results for each implementation.
 ```
 python3 test-*.py # 
 ```
+* The test result will be in the the folder "result/".
