@@ -1,7 +1,7 @@
 # PP-Project
 * Parallelize the Floyd-Warshall algorithm using OpenMP and CUDA.
 * Two parallelization approaches are implemented.
-* The report of this project can be found in "report.pdf". 
+* The report of this project can be found in [here](report.pdf). 
 
 ## Build
 * Use Makefile to build the project.
