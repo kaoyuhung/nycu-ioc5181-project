@@ -15,4 +15,4 @@ make
 ```
 python3 test-*.py # 
 ```
-* The test result will be in the the folder "result/".
+* The test results will be in the the folder "result/".
