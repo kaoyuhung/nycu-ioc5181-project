@@ -1,4 +1,4 @@
-# PP-Project
+# Parallel Programming Project
 * Parallelize the Floyd-Warshall algorithm using OpenMP and CUDA.
 * Two parallelization approaches are implemented.
 * The report of this project can be found [here](report.pdf). 
