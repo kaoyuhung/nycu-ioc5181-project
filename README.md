@@ -1,10 +1,8 @@
-# Parallel Programming Project
+# NYCU-IOC5181-Parallel-Programming: Parallelizing Floyd-Warshall Algo. on CPU and GPU
 * Parallelize the Floyd-Warshall algorithm using OpenMP and CUDA.
-* Two parallelization approaches are implemented.
 * The report of this project can be found [here](report.pdf). 
 
 ## Build
-* Use Makefile to build the project.
 * The binary executables will be generated in "bin/".
 ```
 make
@@ -15,4 +13,3 @@ make
 ```
 python3 test-*.py # 
 ```
-* The test results will be in the the folder "result/".
